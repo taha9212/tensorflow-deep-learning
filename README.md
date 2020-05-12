@@ -8,3 +8,6 @@ https://www.kaggle.com/c/dogs-vs-cats/data
 
 flight dely:
 https://www.kaggle.com/divyansh22/flight-delay-prediction
+
+imdb:
+http://mng.bz/0tIo
