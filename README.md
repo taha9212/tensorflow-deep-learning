@@ -11,3 +11,6 @@ https://www.kaggle.com/divyansh22/flight-delay-prediction
 
 imdb:
 http://mng.bz/0tIo
+
+gloVe:
+https://nlp.stanford.edu/projects/glove
